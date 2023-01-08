@@ -1,4 +1,4 @@
 #!/bin/bash
-yum update -y
-yum install python-pip -y;
+sudo yum update -y
+sudo yum install python-pip -y;
 pip install flask;
